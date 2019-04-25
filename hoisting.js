@@ -11,7 +11,6 @@ callMe = lyric
 
 
 function crazy() {
-  console.log("hey!!!");
   var thisIsCrazy; //fix the code in here:
   thisIsCrazy();
   thisIsCrazy = function(){
