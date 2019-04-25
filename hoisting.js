@@ -11,11 +11,11 @@ callMe = lyric
 
 
 function crazy() {
-  console.log("hey!!!"); //fix the code in here:
+  console.log("hey!!!");
+  var thisIsCrazy; //fix the code in here:
   thisIsCrazy();
-
-  var thisIsCrazy = function (){
-    console.log("hey!!!")
+  thisIsCrazy = function(){
+    console.log("hey!!!");
   }
 }
 
